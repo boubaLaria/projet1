@@ -1,2 +1,6 @@
 project 1
+<<<<<<< HEAD
 Bien réçu kante souleymane
+=======
+boubacar
+>>>>>>> 775797b2cc55427502c6eb22284dc54ef0a0a006
