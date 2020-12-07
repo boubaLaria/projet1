@@ -1,1 +1,7 @@
 project 1
+<<<<<<< HEAD
+Bien r��u kante souleymane
+=======
+boubacar
+madiou
+>>>>>>> 775797b2cc55427502c6eb22284dc54ef0a0a006
