@@ -1,0 +1,10 @@
+{% extends "Clients/layout.html" %}
+
+{% block body %}
+    <h1>Clients</h1>
+    <ul>
+        {% for clt in Client %}
+            <li>numero: {{clt.id}} nom: {{clt.nom_client}} prenom: {{clt.prenom_client}}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
