@@ -1,0 +1,14 @@
+{% extends "Clients/layout.html" %}
+
+{% block body %}
+    <h1>Client no: {{client.id}}</h1>
+    <ul>
+        <li>Nom: {{client.nom_client}}</li>
+        <li>Prenom: {{client.prenom_client}}</li>
+        <li>Genre: {{client.genre}}</li>
+        <li>telephone: {{client.telephone}}</li>
+        <li>email: {{client.email}}</li>
+        <li>mot de passe: {{client.password}}</li>
+        <li>Adresse: {{client.adresse}}</li>
+    </ul>
+{% endblock %}
